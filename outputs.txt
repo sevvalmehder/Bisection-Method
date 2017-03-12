@@ -1,0 +1,132 @@
+a) 3x − e^x = 0 for 1 ≤ x ≤ 2
+
+Iteration: 1	the absolute error: 0,5000000000	the relative error: 0,3333333333
+Iteration: 2	the absolute error: 0,2500000000	the relative error: 0,1428571429
+Iteration: 3	the absolute error: 0,1250000000	the relative error: 0,0769230769
+Iteration: 4	the absolute error: 0,0625000000	the relative error: 0,0400000000
+Iteration: 5	the absolute error: 0,0312500000	the relative error: 0,0204081633
+Iteration: 6	the absolute error: 0,0156250000	the relative error: 0,0103092784
+Iteration: 7	the absolute error: 0,0078125000	the relative error: 0,0051813472
+Iteration: 8	the absolute error: 0,0039062500	the relative error: 0,0025839793
+Iteration: 9	the absolute error: 0,0019531250	the relative error: 0,0012903226
+Iteration: 10	the absolute error: 0,0009765625	the relative error: 0,0006455778
+Iteration: 11	the absolute error: 0,0004882813	the relative error: 0,0003228931
+Iteration: 12	the absolute error: 0,0002441406	the relative error: 0,0001614726
+Iteration: 13	the absolute error: 0,0001220703	the relative error: 0,0000807298
+Iteration: 14	the absolute error: 0,0000610352	the relative error: 0,0000403633
+Iteration: 15	the absolute error: 0,0000305176	the relative error: 0,0000201820
+Iteration: 16	the absolute error: 0,0000152588	the relative error: 0,0000100909
+Iteration: 17	the absolute error: 0,0000076294	the relative error: 0,0000050454
+After 17 iterations, approximate root is found 1.5121383666992188
+
+~
+
+b) 2x + 3cos x − e^x = 0 for 0 ≤ x ≤ 1
+
+Iteration: 1	the absolute error: 0,5000000000	the relative error: 1,0000000000
+Iteration: 2	the absolute error: 0,2500000000	the relative error: 0,3333333333
+Iteration: 3	the absolute error: 0,1250000000	the relative error: 0,1428571429
+Iteration: 4	the absolute error: 0,0625000000	the relative error: 0,0666666667
+Iteration: 5	the absolute error: 0,0312500000	the relative error: 0,0322580645
+Iteration: 6	the absolute error: 0,0156250000	the relative error: 0,0158730159
+Iteration: 7	the absolute error: 0,0078125000	the relative error: 0,0078740157
+Iteration: 8	the absolute error: 0,0039062500	the relative error: 0,0039215686
+Iteration: 9	the absolute error: 0,0019531250	the relative error: 0,0019569472
+Iteration: 10	the absolute error: 0,0009765625	the relative error: 0,0009775171
+Iteration: 11	the absolute error: 0,0004882813	the relative error: 0,0004885198
+Iteration: 12	the absolute error: 0,0002441406	the relative error: 0,0002442002
+Iteration: 13	the absolute error: 0,0001220703	the relative error: 0,0001220852
+Iteration: 14	the absolute error: 0,0000610352	the relative error: 0,0000610389
+Iteration: 15	the absolute error: 0,0000305176	the relative error: 0,0000305185
+Iteration: 16	the absolute error: 0,0000152588	the relative error: 0,0000152590
+Iteration: 17	the absolute error: 0,0000076294	the relative error: 0,0000076295
+After 17 iterations, approximate root is found 0.9999923706054688
+
+~
+
+c) x^2 − 4x + 4 − lnx = 0 for 1 ≤ x ≤ 2
+
+Iteration: 1	the absolute error: 0,5000000000	the relative error: 0,3333333333
+Iteration: 2	the absolute error: 0,2500000000	the relative error: 0,2000000000
+Iteration: 3	the absolute error: 0,1250000000	the relative error: 0,0909090909
+Iteration: 4	the absolute error: 0,0625000000	the relative error: 0,0434782609
+Iteration: 5	the absolute error: 0,0312500000	the relative error: 0,0222222222
+Iteration: 6	the absolute error: 0,0156250000	the relative error: 0,0109890110
+Iteration: 7	the absolute error: 0,0078125000	the relative error: 0,0055248619
+Iteration: 8	the absolute error: 0,0039062500	the relative error: 0,0027700831
+Iteration: 9	the absolute error: 0,0019531250	the relative error: 0,0013831259
+Iteration: 10	the absolute error: 0,0009765625	the relative error: 0,0006910850
+Iteration: 11	the absolute error: 0,0004882813	the relative error: 0,0003456619
+Iteration: 12	the absolute error: 0,0002441406	the relative error: 0,0001728608
+Iteration: 13	the absolute error: 0,0001220703	the relative error: 0,0000864230
+Iteration: 14	the absolute error: 0,0000610352	the relative error: 0,0000432133
+Iteration: 15	the absolute error: 0,0000305176	the relative error: 0,0000216071
+Iteration: 16	the absolute error: 0,0000152588	the relative error: 0,0000108035
+Iteration: 17	the absolute error: 0,0000076294	the relative error: 0,0000054018
+After 17 iterations, approximate root is found 1.4123916625976562
+
+
+c) x^2 − 4x + 4 − lnx = 0 for 2 ≤ x ≤ 4
+
+Iteration: 1	the absolute error: 1,0000000000	the relative error: 0,3333333333
+Iteration: 2	the absolute error: 0,5000000000	the relative error: 0,1428571429
+Iteration: 3	the absolute error: 0,2500000000	the relative error: 0,0769230769
+Iteration: 4	the absolute error: 0,1250000000	the relative error: 0,0400000000
+Iteration: 5	the absolute error: 0,0625000000	the relative error: 0,0204081633
+Iteration: 6	the absolute error: 0,0312500000	the relative error: 0,0103092784
+Iteration: 7	the absolute error: 0,0156250000	the relative error: 0,0051282051
+Iteration: 8	the absolute error: 0,0078125000	the relative error: 0,0025575448
+Iteration: 9	the absolute error: 0,0039062500	the relative error: 0,0012771392
+Iteration: 10	the absolute error: 0,0019531250	the relative error: 0,0006389776
+Iteration: 11	the absolute error: 0,0009765625	the relative error: 0,0003193868
+Iteration: 12	the absolute error: 0,0004882813	the relative error: 0,0001597189
+Iteration: 13	the absolute error: 0,0002441406	the relative error: 0,0000798658
+Iteration: 14	the absolute error: 0,0001220703	the relative error: 0,0000399313
+Iteration: 15	the absolute error: 0,0000610352	the relative error: 0,0000199653
+Iteration: 16	the absolute error: 0,0000305176	the relative error: 0,0000099825
+After 16 iterations, approximate root is found 3.057098388671875
+
+~
+
+d) x + 1 − 2sin(πx) = 0 for 0 ≤ x ≤ 0.5
+
+Iteration: 1	the absolute error: 0,2500000000	the relative error: 1,0000000000
+Iteration: 2	the absolute error: 0,1250000000	the relative error: 1,0000000000
+Iteration: 3	the absolute error: 0,0625000000	the relative error: 0,3333333333
+Iteration: 4	the absolute error: 0,0312500000	the relative error: 0,1428571429
+Iteration: 5	the absolute error: 0,0156250000	the relative error: 0,0769230769
+Iteration: 6	the absolute error: 0,0078125000	the relative error: 0,0370370370
+Iteration: 7	the absolute error: 0,0039062500	the relative error: 0,0188679245
+Iteration: 8	the absolute error: 0,0019531250	the relative error: 0,0095238095
+Iteration: 9	the absolute error: 0,0009765625	the relative error: 0,0047393365
+Iteration: 10	the absolute error: 0,0004882813	the relative error: 0,0023752969
+Iteration: 11	the absolute error: 0,0002441406	the relative error: 0,0011862396
+Iteration: 12	the absolute error: 0,0001220703	the relative error: 0,0005927682
+Iteration: 13	the absolute error: 0,0000610352	the relative error: 0,0002962963
+Iteration: 14	the absolute error: 0,0000305176	the relative error: 0,0001481262
+Iteration: 15	the absolute error: 0,0000152588	the relative error: 0,0000740576
+Iteration: 16	the absolute error: 0,0000076294	the relative error: 0,0000370302
+Iteration: 17	the absolute error: 0,0000038147	the relative error: 0,0000185147
+Iteration: 18	the absolute error: 0,0000019073	the relative error: 0,0000092575
+After 18 iterations, approximate root is found 0.20603370666503906
+
+d) x + 1 − 2sin(πx) = 0 for 0.5 ≤ x ≤ 1
+
+Iteration: 1	the absolute error: 0,2500000000	the relative error: 0,3333333333
+Iteration: 2	the absolute error: 0,1250000000	the relative error: 0,2000000000
+Iteration: 3	the absolute error: 0,0625000000	the relative error: 0,0909090909
+Iteration: 4	the absolute error: 0,0312500000	the relative error: 0,0476190476
+Iteration: 5	the absolute error: 0,0156250000	the relative error: 0,0232558140
+Iteration: 6	the absolute error: 0,0078125000	the relative error: 0,0114942529
+Iteration: 7	the absolute error: 0,0039062500	the relative error: 0,0057142857
+Iteration: 8	the absolute error: 0,0019531250	the relative error: 0,0028653295
+Iteration: 9	the absolute error: 0,0009765625	the relative error: 0,0014306152
+Iteration: 10	the absolute error: 0,0004882813	the relative error: 0,0007158196
+Iteration: 11	the absolute error: 0,0002441406	the relative error: 0,0003580380
+Iteration: 12	the absolute error: 0,0001220703	the relative error: 0,0001789869
+Iteration: 13	the absolute error: 0,0000610352	the relative error: 0,0000895015
+Iteration: 14	the absolute error: 0,0000305176	the relative error: 0,0000447487
+Iteration: 15	the absolute error: 0,0000152588	the relative error: 0,0000223749
+Iteration: 16	the absolute error: 0,0000076294	the relative error: 0,0000111873
+Iteration: 17	the absolute error: 0,0000038147	the relative error: 0,0000055936
+After 17 iterations, approximate root is found 0.6819725036621094
